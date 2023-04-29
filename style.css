@@ -1,0 +1,18 @@
+body {
+    background-color: #ff0015;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+div {
+    margin-top: 15%;
+}
+
+p {
+    font-size: large;
+}
+
+h1 {
+    font-size: 45px;
+}
